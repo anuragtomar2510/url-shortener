@@ -1,0 +1,16 @@
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Montserrat', sans-serif;
+}
+
+.heading {
+
+        margin-top: 64px;
+        margin-bottom: 20px;
+        text-align: center;
+
+
+}
+
